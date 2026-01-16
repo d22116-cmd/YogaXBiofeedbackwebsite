@@ -1,0 +1,8 @@
+{
+  "name": "YogaXBiofeedback - Unified Wellness Platform",
+  "description": "The Apple of Wellness Technology. A premium platform integrating biofeedback hardware with 10 specialized AI Gurus for Yoga, Pranayama, Meditation, and more.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
